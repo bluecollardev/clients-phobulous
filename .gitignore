@@ -4,11 +4,6 @@
 # IDE
 .idea
 
-# Config and Htaccess Files
-/upload/.htaccess
-/upload/config.php
-/upload/admin/config.php
-
 # Image File
 !/upload/image/no_image.jpg
 
