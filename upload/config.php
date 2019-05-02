@@ -1,9 +1,9 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://localhost:8081/');
+define('HTTP_SERVER', 'http://localhost/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://localhost:8081/');
+define('HTTPS_SERVER', 'http://localhost/');
 
 // DIR
 define('DIR_APPLICATION', '/var/www/upload/catalog/');
