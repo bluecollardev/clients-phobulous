@@ -21,8 +21,8 @@ define('DIR_QC', '/var/www/');
 define('QUICKCOMMERCE_INSTALLED', true);
 
 // DB
-define('DB_DRIVER', 'mysqli');
-define('DB_HOSTNAME', 'localhost');
+define('DB_DRIVER', 'mpdo');
+define('DB_HOSTNAME', 'mariadb');
 define('DB_USERNAME', 'quickcommerce');
 define('DB_PASSWORD', 'quickcommerce');
 define('DB_DATABASE', 'quickcommerce');
