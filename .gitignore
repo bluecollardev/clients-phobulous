@@ -55,11 +55,11 @@
 /tests/phpunit/bootstrap.php
 
 # QuickCommerce
-/img
-/js
-lib/
-/qc-shop-001
-/viewer-js
-/react-particle
-/index.html
-/particle-phobulous-style.css
+/upload/img
+/upload/js
+/upload/lib/
+/upload/qc-shop-001
+/upload/viewer-js
+/upload/react-particle
+/upload/index.html
+/upload/particle-phobulous-style.css
